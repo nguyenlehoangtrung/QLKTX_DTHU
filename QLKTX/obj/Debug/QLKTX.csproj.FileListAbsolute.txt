@@ -1,0 +1,348 @@
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmPhong.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmTrangChu.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmSinhVien.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmHopDong.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmThongKeHD.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmHoaDon.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmDangNhap.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmBaoCao.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmDoiMatKhau.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.xml
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ExcelDataReader.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\EnvDTE.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\stdole.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Microsoft.MSXML.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ExcelDataReader.pdb
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ExcelDataReader.xml
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.xml
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.AssemblyReference.cache
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.ResolveComReference.cache
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmBaoCao.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmDangNhap.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmDoiMatKhau.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmHoaDon.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmHopDong.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmPhong.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmSinhVien.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmThongKeHD.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmTrangChu.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CopyComplete
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ExcelDataReader.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\EnvDTE.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\stdole.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Microsoft.MSXML.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ExcelDataReader.pdb
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ExcelDataReader.xml
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.xml
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.AssemblyReference.cache
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.ResolveComReference.cache
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmBaoCao.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmDangNhap.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmDoiMatKhau.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmHoaDon.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmHopDong.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmPhong.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmSinhVien.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmThongKeHD.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.frmTrangChu.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\RdlCompile.cache
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\RdlCompile.compiled
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+E:\PTPMHDT\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.dll
+E:\PTPMHDT\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.xml
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.dll
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Admin\Desktop\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.frmBackupRestore.resources
+D:\1\Phat trien phan mem\Bai tap lon\QLKTX\QLKTX\obj\Debug\QLKTX.frmBackupRestore.resources
+C:\Users\Admin\Desktop\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CopyComplete
+D:\1\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\1\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\1\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\1\QLKTX\QLKTX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\1\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+D:\1\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+D:\1\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+D:\1\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ExcelDataReader.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.dll
+D:\1\QLKTX\QLKTX\bin\Debug\EnvDTE.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\1\QLKTX\QLKTX\bin\Debug\stdole.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\1\QLKTX\QLKTX\bin\Debug\Microsoft.MSXML.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ExcelDataReader.pdb
+D:\1\QLKTX\QLKTX\bin\Debug\ExcelDataReader.xml
+D:\1\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\1\QLKTX\QLKTX\bin\Debug\ExcelDataReader.DataSet.xml
+D:\1\QLKTX\QLKTX\bin\Debug\Z.Dapper.Plus.xml
+D:\1\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.ResolveComReference.cache
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmBackupRestore.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmBaoCao.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmDangNhap.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmDoiMatKhau.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmHoaDon.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmHopDong.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmPhong.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmSinhVien.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmThongKeHD.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.frmTrangChu.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CopyComplete
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+D:\1\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
